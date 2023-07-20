@@ -13,11 +13,12 @@ const ArrowDownFillComponent = (
       viewBox="0 0 24 24"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
+      {...rest}
     >
       <g clip-path="url(#clip0_320_208)">
         <path
           d="M20.0016 6.6001L12.0016 14.6001L4.00156 6.6001L2.60156 8.0001L12.0016 17.4001L21.4016 8.0001L20.0016 6.6001Z"
-          fill="#1A1A1C"
+          fill={color}
         />
       </g>
       <defs>

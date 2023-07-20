@@ -13,6 +13,7 @@ const ArrowUpLineComponent = (
       viewBox="0 0 24 24"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
+      {...rest}
     >
       <path
         d="M4 16.4999L3 15.4999L12 6.3999L21 15.4999L20 16.4999L12 8.5999L4 16.4999Z"
