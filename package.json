@@ -1,5 +1,5 @@
 {
-  "name": "@true/react-digi-icons",
+  "name": "react-digi-icons",
   "version": "0.1.0",
   "description": "a react icon/illust library for digital agency of Japan",
   "main": "dist/index.js",
